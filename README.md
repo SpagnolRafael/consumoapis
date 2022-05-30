@@ -1,5 +1,5 @@
 # preco_bitcoin
-
+Consumo de API's de cotação de moedas.
 A new Flutter project.
 
 ## Getting Started
